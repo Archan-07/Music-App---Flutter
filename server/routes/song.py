@@ -13,9 +13,9 @@ from pydantic_schemas.favorite_song import FavoriteSong
 router = APIRouter()
 
 cloudinary.config( 
-    cloud_name = "dwgstsxjm", 
-    api_key = "576461125769725", 
-    api_secret = "WFoi-6QrhceNFaMQd9-0MVwM8Aw", # Click 'View API Keys' above to copy your API secret
+    cloud_name = "cloud_name", 
+    api_key = "your_api_key", 
+    api_secret = "your_api_secret", # Click 'View API Keys' above to copy your API secret
     secure=True
 )
 
