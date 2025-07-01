@@ -1,6 +1,6 @@
-🎵 Music App - Flutter & FastAPI
+# 🎵 Music App - Flutter & FastAPI
 A full-stack MVVM based music application built with Flutter for the frontend and FastAPI (Python) for the backend. This app provides a complete music streaming experience with user authentication, song management, and favorites functionality.
-📱 Features
+# 📱 Features
 Client (Flutter App)
 
 🎵 Music streaming and playback
@@ -20,7 +20,7 @@ Server (FastAPI Backend)
 🎵 Music streaming and metadata management
 🔄 RESTful API endpoints
 
-🏗️ Project Structure
+# 🏗️ Project Structure
 Music-App--Flutter/
 ├── client/                 # Flutter Frontend
 │   ├── lib/
@@ -108,7 +108,7 @@ cloudinary.config(
 Frontend Development
 
 Feature-based architecture for scalability
-Provider pattern for state management
+Riverpod pattern for state management
 Custom themes and widgets
 Responsive design for multiple platforms
 
